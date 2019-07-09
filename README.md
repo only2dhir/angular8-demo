@@ -2,26 +2,20 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.6.
 
-## Development server
+## Other Angular Resources
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+[Angular 7 CRUD Example](https://www.devglan.com/angular/angular-7-crud-example)
 
-## Code scaffolding
+[Angular 6 CRUD](https://www.devglan.com/angular/angular-6-example)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+[Typescript Tutorial](https://www.devglan.com/angular/typescript-tutorial)
 
-## Build
+[Angular Multiple File Upload](https://www.devglan.com/angular/angular-multiple-file-upload)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+[Angular Universal Server Side Rendering](https://www.devglan.com/angular/angular-universal-server-side-rendering)
 
-## Running unit tests
+[Spring Boot Angular Captcha](https://www.devglan.com/angular/spring-boot-angular-captcha)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+[Deploying Angular App on Nginx](https://www.devglan.com/angular/deploy-angular-app-nginx)
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
