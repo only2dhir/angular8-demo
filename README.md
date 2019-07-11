@@ -4,6 +4,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Other Angular Resources
 
+[Spring Boot Angular 8](https://www.devglan.com/spring-boot/spring-boot-angular-8-example)
+
 [Angular 7 CRUD Example](https://www.devglan.com/angular/angular-7-crud-example)
 
 [Angular 6 CRUD](https://www.devglan.com/angular/angular-6-example)
